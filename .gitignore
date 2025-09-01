@@ -1,0 +1,6 @@
+# Ignorer le dossier des dépendances
+node_modules
+
+# Ignorer le fichier de la base de données SQLite
+database.sqlite
+database.sqlite-journal
